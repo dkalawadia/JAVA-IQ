@@ -36,7 +36,7 @@ Java Interview Questions
 ```
 MIT License
 
-ps - Problem Solving
+JAVA-IQ : Java Interview Question
 Copyright (c) 2016, Dinesh Kalawadia
 https://github.com/dkalawadia/JAVA-IQ
 
