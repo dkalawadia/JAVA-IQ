@@ -1,6 +1,9 @@
 # JAVA-IQ
 Java Interview Questions
 
+##Collection
+  - [What is the difference between HashTable and HashMap in Java?](collection/hashtable-vs-hashmap.md)
+
 
 
 
