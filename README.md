@@ -40,7 +40,7 @@ Java Interview Questions
 MIT License
 
 JAVA-IQ : Java Interview Question
-Copyright (c) 2016, Dinesh Kalawadia
+Copyright (c) 2016 - 2017, Dinesh Kalawadia
 https://github.com/dkalawadia/JAVA-IQ
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
